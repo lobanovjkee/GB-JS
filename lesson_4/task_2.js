@@ -17,4 +17,4 @@ let cart = {
 	},
 };
 
-console.log(basket.countBasketPrice(basket));
+console.log(cart.countCartPrice());
